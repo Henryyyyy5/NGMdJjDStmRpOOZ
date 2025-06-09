@@ -1,5 +1,4 @@
 Dim startup, command
 startup = 1
-quit = 1
+quit = 0
 command = "MsgBox 'debug'"
-MsgBox "ya", 0, "debug"
